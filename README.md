@@ -1,7 +1,3 @@
-Here’s a **fully expanded** and **well-structured** AstraSwap SDK document with detailed explanations, clear formatting, and an engaging design. 🚀  
-
----
-
 # 🌟 **AstraSwap SDK – The Ultimate Developer Toolkit for DeFi**  
 
 ## 🚀 **Introduction**  
@@ -190,7 +186,3 @@ AstraSwap SDK is the **perfect toolkit** for developers looking to create powerf
 | **Governance (veTokens)** | ✅ Available | Participate in decision-making and voting |
 
 🚀 **Join the AstraSwap revolution and build the next-gen DeFi ecosystem!** 🚀  
-
----
-
-This **fully expanded** version ensures maximum clarity, with a **structured design, formatted code snippets, feature breakdowns, and calls to action.** Let me know if you need further improvements! 😊🔥
